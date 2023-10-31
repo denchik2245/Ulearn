@@ -1,4 +1,4 @@
-﻿public class BenfordsLaw
+﻿public class SplitJoin
 {
     public static void Main()
     {
