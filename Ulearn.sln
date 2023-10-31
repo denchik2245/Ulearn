@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Counting", "Array Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array subArr", "Array subArr\Array subArr.csproj", "{C6A030A1-2C7D-4312-9F43-1F0616241F4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollStrFile The strangers cipher", "CollStrFile The strangers cipher\CollStrFile The strangers cipher.csproj", "{5956C833-CDC9-430D-AB38-0CA37EE1EA01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C6A030A1-2C7D-4312-9F43-1F0616241F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A030A1-2C7D-4312-9F43-1F0616241F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A030A1-2C7D-4312-9F43-1F0616241F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5956C833-CDC9-430D-AB38-0CA37EE1EA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5956C833-CDC9-430D-AB38-0CA37EE1EA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5956C833-CDC9-430D-AB38-0CA37EE1EA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5956C833-CDC9-430D-AB38-0CA37EE1EA01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
