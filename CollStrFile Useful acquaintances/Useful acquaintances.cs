@@ -7,7 +7,7 @@
         foreach(var contact in contacts) // Перебор всех контактов из списка
         { 
             string temp = contact.Replace("<","").Replace(">",""); // Удаление символов '<' и '>'
-            var input = temp.Split(':').ToArray() ; // Разделение строки на имя и email по символу ':'
+            var input = temp.Split(':'); // Разделение строки на имя и email по символу ':'
             string words = input[0].Length > 1 ? input[0].Substring(0,2) : input[0]; // Получение первых двух букв имени (или одной, если имя состоит из одной буквы)
 
             // Проверка наличия ключа в словаре и добавление нового списка при необходимости
