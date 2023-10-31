@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollStrFile Useful acquaint
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollStrFile Benfords Law", "CollStrFile Benfords Law\CollStrFile Benfords Law.csproj", "{0073DBE2-72BD-4AB4-9DF4-F7C99C25FDB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollStrFile SplitJoin", "CollStrFile SplitJoin\CollStrFile SplitJoin.csproj", "{97010C06-B795-4403-B8B7-642155B6A0CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{0073DBE2-72BD-4AB4-9DF4-F7C99C25FDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0073DBE2-72BD-4AB4-9DF4-F7C99C25FDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0073DBE2-72BD-4AB4-9DF4-F7C99C25FDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97010C06-B795-4403-B8B7-642155B6A0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97010C06-B795-4403-B8B7-642155B6A0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97010C06-B795-4403-B8B7-642155B6A0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97010C06-B795-4403-B8B7-642155B6A0CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
